@@ -226,7 +226,7 @@ describe("weather", function() {
       setValue('.search2__input', 'погода в симферополе'); 
     });
 
-    it("нажимаем кнопку «Найти», function() {
+    it("нажимаем кнопку «Найти»", function() {
        click('.search2__button');  
     });
 
